@@ -1,0 +1,33 @@
+{
+	"id": "co-op-dungeon",
+	"version": "0.0.1",
+	"title": {
+		"en_US": "Co-op Dungeon",
+		"de_DE": "Co-op Dungeon",
+		"fr_FR": "Co-op Dungeon",
+		"zh_CN": "Co-op Dungeon",
+		"zh_TW": "Co-op Dungeon",
+		"ja_JP": "Co-op Dungeon",
+		"ko_KR": "Co-op Dungeon"
+	},
+	"description": {
+		"en_US": "A dungeon that can only be solved by two players.",
+		"de_DE": "A dungeon that can only be solved by two players.",
+		"fr_FR": "A dungeon that can only be solved by two players.",
+		"zh_CN": "A dungeon that can only be solved by two players.",
+		"zh_TW": "A dungeon that can only be solved by two players.",
+		"ja_JP": "A dungeon that can only be solved by two players.",
+		"ko_KR": "A dungeon that can only be solved by two players."
+	},
+	"icons": {
+		"24": "icon.png"
+	},
+	"repository": "https://github.com/XenonA7/co-op-dungeon",
+	"tags": ["dungeon", "puzzle", "maps"],
+	"authors": ["XenonA7"],
+	"dependencies": {
+		"Simplify": ">=2.12.1",
+		"extension-asset-preloader": ">=1.0.0",
+		"post-game": ">=1.4.0"
+	}
+}

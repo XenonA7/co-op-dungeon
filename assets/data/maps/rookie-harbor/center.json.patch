@@ -1,0 +1,35 @@
+[
+  {
+    "type": "ENTER",
+    "index": "entities"
+  },
+  {
+    "type": "ADD_ARRAY_ELEMENT",
+    "content": {
+      "type": "TeleportField",
+      "x": 840,
+      "y": 248,
+      "level": 2,
+      "settings": {
+        "mapId": 793,
+        "name": "coop-dng",
+        "dir": "SOUTH",
+        "map": "coop-dng.dev",
+        "marker": "entrance",
+        "teleportLabel": {
+          "en_US": "To: co-op dungeon",
+          "de_DE": "",
+          "ja_JP": "",
+          "ko_KR": "",
+          "zh_CN": "",
+          "zh_TW": ""
+        },
+        "longTelCond": "false",
+        "gfxType": "AR"
+      }
+    }
+  },
+  {
+    "type": "EXIT"
+  }
+]
