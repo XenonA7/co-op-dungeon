@@ -1,6 +1,6 @@
 {
 	"id": "co-op-dungeon",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"title": {
 		"en_US": "Co-op Dungeon",
 		"de_DE": "Co-op Dungeon",
@@ -24,7 +24,7 @@
 	},
 	"repository": "https://github.com/XenonA7/co-op-dungeon",
 	"tags": ["dungeon", "puzzle", "maps"],
-	"authors": ["XenonA7"],
+	"authors": ["XenonA7", "buanjautista"],
 	"dependencies": {
 		"Simplify": ">=2.12.1",
 		"extension-asset-preloader": ">=1.0.0",
