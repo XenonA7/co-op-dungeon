@@ -231,27 +231,27 @@
                 },
                 "action": [
                   {
-                    "element": 0,
+                    "element": "NEUTRAL",
                     "amount": 120,
                     "type": "ADD_CP_ALT"
                   },
                   {
-                    "element": 1,
+                    "element": "HEAT",
                     "amount": 120,
                     "type": "ADD_CP_ALT"
                   },
                   {
-                    "element": 2,
+                    "element": "COLD",
                     "amount": 120,
                     "type": "ADD_CP_ALT"
                   },
                   {
-                    "element": 3,
+                    "element": "SHOCK",
                     "amount": 120,
                     "type": "ADD_CP_ALT"
                   },
                   {
-                    "element": 4,
+                    "element": "WAVE",
                     "amount": 120,
                     "type": "ADD_CP_ALT"
                   }
